@@ -11,4 +11,4 @@
 python3 -m pip install -r requirements.txt
 ```
 
-<span>&copy;&nbsp;Copyright By MrMad</span>
+<div align="center"><samp><span>&copy;&nbsp;Copyright By MrMad</span></samp></div>
