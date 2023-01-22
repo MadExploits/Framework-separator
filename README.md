@@ -7,8 +7,7 @@
 <b>Author : Mr.Mad</b>
 <br>
 
-
-<p>Installation : </p>
+<div>Installation : </div>
 
 ```
 python3 -m pip install -r requirements.txt
