@@ -11,4 +11,6 @@
 python3 -m pip install -r requirements.txt
 ```
 
+<img src="https://raw.githubusercontent.com/MadExploits/Framework-separator/main/Screenshot%20from%202023-01-22%2018-17-26.png">
+
 <div align="center"><samp><span>&copy;&nbsp;Copyright By MrMad</span></samp></div>
