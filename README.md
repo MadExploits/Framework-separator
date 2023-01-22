@@ -4,7 +4,8 @@
 <samp>What Is a PHP Framework? A PHP framework is a platform to create PHP web applications. PHP frameworks provide code libraries for commonly used functions, cutting down on the amount of original code you need to write.</samp>
 
 <br>
-<p>Author : Mr.Mad</p>
+<b>Author : Mr.Mad</b>
+<br>
 <p>Installation : </p>
 
 ```
